@@ -28,7 +28,7 @@
 
 ### PDC
 
-![none]()
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2145.png)
 
 ### DFD
 
