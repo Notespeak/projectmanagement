@@ -21,7 +21,7 @@
  
 
 ## Лабораторная 2
-
+IDEF0 diagram
 ### Контекстная модель
 
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2145.png)
