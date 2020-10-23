@@ -34,7 +34,7 @@ IDEF0 diagram
 
 Блок "Контроль качества":
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2162.png)
-[Файл .rsf]()
+[Файл .rsf](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/pdc-tildag.rsf)
 
 ### Диаграмма прецедентов
 
