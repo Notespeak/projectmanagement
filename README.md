@@ -27,13 +27,13 @@ IDEF0 diagram
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2145.png)
 
 ### PDC
-
-![none]()
+Средний уровень:
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2161.png)
 
 ### DFD
 
 Блок "Контроль качества":
-![none]()
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2162.png)
 [Файл .rsf]()
 
 ### Диаграмма прецедентов
