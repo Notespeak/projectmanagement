@@ -28,12 +28,12 @@ IDEF0 diagram
 
 ### PDC
 
-![none]()
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2161.png)
 
 ### DFD
 
 Блок "Контроль качества":
-![none]()
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2162.png)
 [Файл .rsf]()
 
 ### Диаграмма прецедентов
