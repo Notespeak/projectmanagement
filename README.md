@@ -36,10 +36,9 @@ IDEF0 diagram
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2162.png)
 [Файл .rsf](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/pdc-tildag.rsf)
 
-### Диаграмма прецедентов
-
-![none]()
-[Код]()
+### Usecase diagram
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/uml.png)
+[Код](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/uml.txt)
 
 ## Лабораторная 3
 
