@@ -31,12 +31,12 @@ IDEF0 diagram
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2161.png)
 
 ### DFD
-
-Блок "Контроль качества":
+блок:Оформление товара и выдача
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/Screenshot_2162.png)
 [Файл .rsf](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/pdc-tildag.rsf)
 
 ### Usecase diagram
+
 ![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/uml.png)
 [Код](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/uml.txt)
 
