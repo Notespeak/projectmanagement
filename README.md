@@ -41,6 +41,13 @@ IDEF0 diagram
 [Код](https://github.com/Notespeak/projectmanagement/blob/master/lab_2/uml.txt)
 
 ## Лабораторная 3
+### Диаграмма ERD
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_3/erd.png)
+[Код](https://github.com/Notespeak/projectmanagement/blob/master/lab_3/erd.txt)
+
+### Диаграмма последовательности
+![none](https://github.com/Notespeak/projectmanagement/blob/master/lab_3/uml.png)
+[Код](https://github.com/Notespeak/projectmanagement/blob/master/lab_3/uml.txt)
 
 ## Лабораторная 4
 
