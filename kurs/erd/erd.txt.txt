@@ -1,0 +1,48 @@
+@startuml
+skinparam class {
+   BackgroundColor White
+   ArrowColor Black
+   BorderColor Black
+}
+hide circle
+hide methods
+
+class Users {
+   id_u : bigserial
+   login : string
+   pass : string
+   umap : number
+}
+
+
+
+class OrderMan{
+   id_t : bigserial
+   autor : number
+   operator : string
+   upload_date: date
+   date_complete: date
+   costs : number
+   filament_manuf : string
+   
+}
+
+class Filament {
+   id_r : bigserial
+   manufacturer: string
+   name_r : string
+   material_type : string
+   cost_per_gram : number
+   quantity : number
+   place : string
+}
+
+
+class Model_file {
+   id_r : bigserial
+   model_data : file
+}
+Users --* OrderMan
+Filament --* OrderMan
+Model_file --* OrderMan
+@enduml
