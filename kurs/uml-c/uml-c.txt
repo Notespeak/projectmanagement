@@ -1,0 +1,29 @@
+@startuml
+component [3d принтеры] as D
+
+component [Контроллеры принтеров] as M
+component [Управляющий сервер] as S
+component [База данных MongoDB] as DB
+component [Web-фронтенд] as W
+
+() "USB" as I1
+() "LAN" as I2
+() "LAN" as I4
+() "LAN" as I5
+() "LAN" as I6
+
+
+
+
+M -> I1
+D -> I1
+I1 - D
+M -- I2
+I2 <-- S
+S -- I4
+I4 -- DB
+S - I5
+I5 - W
+DB - I6
+I6 - W
+@enduml
