@@ -1,0 +1,26 @@
+@startuml
+skinparam class {
+   BackgroundColor White
+   ArrowColor Black
+   BorderColor Black
+}
+hide circle
+hide methods
+
+class Users {
+   id_u : bigserial
+   login : string
+   pass : string
+   umap : number
+}
+
+
+
+class OrderMan{
+   id_t : bigserial
+   autor : number
+   operator : string
+   upload_date: date
+   date_complete: date
+   costs : number
+   filament_manuf : string
